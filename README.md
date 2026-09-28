@@ -145,4 +145,4 @@ A comparação deve usar um período anterior de referência com volume semelhan
 
 ## IA
 
-A IA pode ser usada para acelerar a estrutura inicial do projeto, mas o código precisa ser revisado manualmente. Neste projeto, a revisão deve conferir principalmente regras de transição de status, horários, duplicidades, datas, validações e cálculos dos indicadores.
+A IA foi utilizada neste projeto para a revisão, principalmente sobre regras de transição de status, horários, duplicidades, datas e validações.
