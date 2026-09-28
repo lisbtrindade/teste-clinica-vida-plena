@@ -1,6 +1,6 @@
 # Clínica Vida Plena — Sistema de Agendamentos
 
-Projeto baseado no desafio técnico da Clínica Vida Plena.
+Teste Técnico ACS - Clínica Vida Plena. Projeto baseado no desafio técnico da clínica.
 
 ## Stack
 
